@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CabHelper",
+  "name": "Cabinet Helper",
+  "description": "StreamCraft.net",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nikita23830"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
